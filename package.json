@@ -1,0 +1,23 @@
+{
+  "name": "mid-term-project",
+  "version": "1.0.0",
+  "description": "Test",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedranaha/MID-TERM-PROJECT.git"
+  },
+  "author": "Vedrana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedranaha/MID-TERM-PROJECT/issues"
+  },
+  "homepage": "https://github.com/vedranaha/MID-TERM-PROJECT#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.2"
+  }
+}
